@@ -3,8 +3,6 @@ cls
 :boot
 setlocal EnableExtensions EnableDelayedExpansion
 color 0a
-set version=0.2.1
-set build=55
 =======
 set version=0.2.3
 set build=59
@@ -234,7 +232,7 @@ echo.
 echo  Built from PURNJAY__OS_
 echo.
 echo.=========================
-echo  @Copyright Amethyst.inc
+echo  Theres no Copyright :/
 echo.=========================
 echo.
 echo what do you want to do now
